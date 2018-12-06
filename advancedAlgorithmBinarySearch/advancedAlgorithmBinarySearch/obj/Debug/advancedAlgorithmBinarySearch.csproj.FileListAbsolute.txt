@@ -1,0 +1,7 @@
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\obj\Debug\advancedAlgorithmBinarySearch.csprojAssemblyReference.cache
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\obj\Debug\advancedAlgorithmBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\bin\Debug\advancedAlgorithmBinarySearch.exe.config
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\bin\Debug\advancedAlgorithmBinarySearch.exe
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\bin\Debug\advancedAlgorithmBinarySearch.pdb
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\obj\Debug\advancedAlgorithmBinarySearch.exe
+C:\Users\P452509\source\repos\advancedAlgorithmBinarySearch\advancedAlgorithmBinarySearch\obj\Debug\advancedAlgorithmBinarySearch.pdb
